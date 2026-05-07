@@ -1,13 +1,12 @@
 package model;
 
 public class Tinta extends Produto {
-	
+
 	private String cor;
 	private String tipo;
 	private int ml;
 
-	public Tinta(int id, String nome, String marca, float preco, int quantidade,
-			String cor, String tipo, int ml) {
+	public Tinta(int id, String nome, String marca, float preco, int quantidade, String cor, String tipo, int ml) {
 
 		super(id, nome, marca, preco, quantidade);
 

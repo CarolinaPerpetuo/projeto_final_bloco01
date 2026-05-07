@@ -1,14 +1,14 @@
 package model;
 
 public abstract class Produto {
-	
+
 	private int id;
 	private String nome;
 	private String marca;
 	private float preco;
 	private int quantidade;
 
-	public Produto(int id, String nome, String marca,float preco, int quantidade) {
+	public Produto(int id, String nome, String marca, float preco, int quantidade) {
 		this.id = id;
 		this.nome = nome;
 		this.marca = marca;
@@ -16,7 +16,6 @@ public abstract class Produto {
 		this.quantidade = quantidade;
 	}
 
-	
 	public int getId() {
 		return id;
 	}
@@ -67,5 +66,5 @@ public abstract class Produto {
 		System.out.println("Preço: R$ " + this.preco);
 		System.out.println("Quantidade em estoque: " + this.quantidade);
 	}
-	
+
 }
