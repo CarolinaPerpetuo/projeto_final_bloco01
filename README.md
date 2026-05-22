@@ -1,17 +1,27 @@
 # Sistema Color Hair
 
-Sistema CRUD desenvolvido em Java com foco em Programação Orientada a Objetos e organização em arquitetura de camadas.
+Sistema CRUD desenvolvido em Java para gerenciamento de tintas capilares, utilizando Programação Orientada a Objetos (POO) e arquitetura em camadas para organização e manutenção do código.
 
-## Tecnologias utilizadas
+## 🖥️ Tecnologias utilizadas
 
-- Java
-- Collections
-- POO
-- Interface
-- Herança
-- Git/GitHub
+-Java
 
-## Funcionalidades
+-Programação Orientada a Objetos (POO)
+
+-Collections Framework
+
+-Herança
+
+-Interfaces
+
+-Classes Abstratas
+
+-Git
+
+-GitHub
+
+
+## ✨ Funcionalidades
 
 ✔ Cadastrar Tinta
 
@@ -23,7 +33,8 @@ Sistema CRUD desenvolvido em Java com foco em Programação Orientada a Objetos 
 
 ✔ Deletar Cadastro
 
-## Estrutura do projeto
+
+## 🗂️ Estrutura do projeto
 
 controller/
 
@@ -33,6 +44,12 @@ repository/
 
 haircolor_system/
 
-## Aprendizados
 
-Este projeto permitiu aplicar conceitos de Programação Orientada a Objetos, Collections, Interfaces e organização de aplicações Java que estou aprendendo na Generation Brasil!
+## 🎯 Objetivo do projeto
+
+Projeto desenvolvido durante o Bootcamp Desenvolvedor Full Stack Java da Generation Brasil, com foco em consolidar conhecimentos de Java, lógica de programação e desenvolvimento de aplicações organizadas utilizando boas práticas!
+
+
+🌱 Aprendizados
+
+Este projeto contribuiu para fortalecer conhecimentos em desenvolvimento Java, organização de código, Programação Orientada a Objetos e versionamento, além de reforçar boas práticas de desenvolvimento de software.
